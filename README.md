@@ -6,7 +6,7 @@
 
 <div align="center">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/Simran Chaudhary" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+  <a href="https://www.linkedin.com/in/simran-chaudhary-549b13337/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="vertical-align: middle;" />
   </a>
 
